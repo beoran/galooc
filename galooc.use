@@ -1,0 +1,8 @@
+Name: Galooc
+Version: head
+Origin: git://github.com/beoran/galooc.git
+Description: OOC 2D Game Programming Library
+Pkgs: 
+Includes: sdl/SDL.h, sdl/SDL_image.h
+Requires: sdl
+SourcePath: .
